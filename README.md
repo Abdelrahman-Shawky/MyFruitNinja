@@ -1,6 +1,6 @@
 # My Fruit Ninja
 
-A Java application that replicates the fruit slicing game fruit ninja.
+A Java application that replicates the fruit slicing game Fruit Ninja.
 
 # What I Learned
 
